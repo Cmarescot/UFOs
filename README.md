@@ -7,7 +7,7 @@ In this Analysis we helped Dana (a Data Journalist) create a HTML page that has 
 ## Results 
 ### Using the Webpage:
 Let's say a user is from the state or California and would like to get some information on UFO sightings in the state. The user would then use the Filter Search form by inputing (typing) "ca" (in that exact format) and then pressing enter. 
-![caSearch]() ![caSearchEnter]()
+![caSearch](https://github.com/Cmarescot/UFOs/blob/main/static/images/caSearch.png) ![caSearchEnter]()
 
 The user would then be able to see that there were quite a few UFO citings in the state and get some more information on those citings such as the shape of the UFO, the durating of the sighting and comments that were reported. 
 
